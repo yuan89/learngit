@@ -1,0 +1,7 @@
+{
+    "name": "yuan89/learngit",
+    "description": "A demo for git and composer",
+    "require": {
+        "php": ">=5.3.0",
+    }
+}
